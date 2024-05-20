@@ -21,7 +21,7 @@ these are your commands
 
 °gptaddmulti [amount] - Makes gpt's that will be named randomly and will have random personalities
 
-this is a example:
+Example below, EXAMPLE, DO NOT IMITATE!!!
 
 == Ana: Hi, im ana!
 
