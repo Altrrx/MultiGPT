@@ -23,4 +23,8 @@ these are your commands
 
 this is a example:
 
-WIP
+== Ana: Hi, im ana!
+
+== Martin: Hello, im martin.
+
+== User: hi ana and martin lol
