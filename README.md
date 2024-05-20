@@ -20,3 +20,7 @@ these are your commands
 °gptmodify [name -> new name] [personality -> new personality] - Give one of the gpt's a new personality and name
 
 °gptaddmulti [amount] - Makes gpt's that will be named randomly and will have random personalities
+
+this is a example:
+
+WIP
